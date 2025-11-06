@@ -1,89 +1,108 @@
+<h1 align="center">Hi there 👋 I'm Minh</h1>
+<p align="center"><strong>Software Engineer · Robotics Enthusiast · Mobile & Embedded Systems Developer</strong></p>
 
-
-# Hi there 👋 I’m Minh
-
-*Software Engineer · Robotics Hobbyist · Mobile & Embedded Systems Developer*
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Mobile%20Systems-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-success?style=flat-square"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a developer from Da Nang, Vietnam, passionate about building systems that connect software with real-world hardware. I enjoy working across embedded systems, robotics, and mobile application development. I love solving problems, experimenting with control systems, and creating real products that are fun and useful.
+I build systems where **software meets the physical world** — from mobile apps that guide users, to robots that climb stairs and find their way back to a line. I enjoy solving real-world problems with **control logic, clean architecture, and creativity.**
 
-### Interests & Focus Areas:
-
-* **Robotics & Embedded Systems**: ESP32, Arduino, 8051, FreeRTOS, PID control, fuzzy logic tuning, motor drivers & sensor integration.
-* **Mobile Development**: Android Kotlin (Jetpack Compose + Mapbox), Flutter (multi-platform UI & state management).
-* **Full-stack Mobile Systems**: Firebase (Auth + Firestore + Storage), REST APIs, clean architecture patterns.
-* **Applied AI & Recommendation Systems**: Content-based & collaborative filtering, dataset analysis.
-
----
-
-## 📚 Highlighted Projects
-
-* **WeRun / WeRun 2.0**
-  A running-tracker fitness application.
-
-  * **WeRun** → Kotlin + Jetpack Compose + Firebase
-  * **WeRun 2.0 (Doing)** → Upgraded & rebuilt with **Flutter** with improved UI, achievements, goals tracking, sharing & friend leaderboard.
-
-* **FoodHere Delivery App (Kotlin + Jetpack Compose + SePay + Firebase)**
-  A colorful and modern food delivery app with features such as:
-
-  * Restaurant & dish browsing
-  * Wishlists & ratings
-  * Cart + order tracking
-  * Online payment (VNPay / SePay / MoMo integration)
-  * Real-time driver tracking with Mapbox
-    Designed with a friendly visual style for young audiences.
-
-* **Autonomous Stair-Climbing Line-Follower Robot**
-  A robot capable of detecting stairs, climbing, maintaining balance, and re-acquiring the line using:
-
-  * ESP32 + FreeRTOS task scheduling
-  * PID tuning on 5-sensor line array
-  * Height sensing with ultrasonic HC-SR04
-  * Automatic mode switching based on environment detection.
-
-* **6-Wheel Autonomous Navigation Vehicle (ESP32)**
-  Uses TCRT5000 line sensors + dual motor driver (L298N) with logic routines for route following and obstacle avoidance.
-
-* **Restaurant Recommendation System**
-  Combines collaborative filtering & content-based filtering on the ChefMoz & GeoPlaces datasets to suggest restaurants personalized for user tastes.
+### What I love working with:
+- **Robotics & Embedded Control:** ESP32, FreeRTOS, PID / fuzzy tuning, multi-sensor fusion.
+- **Mobile Development:** Kotlin + Jetpack Compose, Flutter cross-platform UI.
+- **Cloud & Backend for Apps:** Firebase Auth, Firestore, Storage, real-time sync.
+- **Applied ML / Recommenders:** Hybrid content + collaborative filtering systems.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-| Domain              | Tools / Frameworks                                                               |
-| ------------------- | -------------------------------------------------------------------------------- |
-| Embedded / Robotics | ESP32, Arduino, 8051, L298N, HC-SR04, TCRT5000, FreeRTOS                         |
-| Mobile Development  | Kotlin, Jetpack Compose, Mapbox, Flutter, Dart                                   |
-| Backend / Cloud     | Firebase Auth, Firestore, Storage, REST APIs                                     |
-| Programming         | C, C++, Python, Dart, Kotlin                                                     |
-| Concepts            | PID control, fuzzy logic, sensor fusion, UI state management, clean architecture |
+| Domain              | Tools / Frameworks / Hardware                                                |
+| ------------------- | ---------------------------------------------------------------------------- |
+| **Embedded**        | ESP32, Arduino, 8051, L298N, HC-SR04, TCRT5000, Motor Encoders, FreeRTOS     |
+| **Mobile Apps**     | Kotlin, Jetpack Compose, Mapbox, Flutter, Dart                              |
+| **Cloud & APIs**    | Firebase Auth / Firestore / Storage, REST APIs                              |
+| **Programming**     | C, C++, Python, Kotlin, Dart                                                 |
+| **Core Concepts**   | PID tuning, fuzzy logic, state machines, clean architecture, UI state mgmt   |
+
+---
+
+## ⭐ Highlight Projects
+
+### 🏃 WeRun & WeRun 2.0
+Fitness running tracker with analytics and social vibes.
+
+| Version | Tech | Notes |
+|--------|------|-------|
+| **WeRun** | Kotlin + Jetpack Compose + Firebase | Core version with GPS + history tracking |
+| **WeRun 2.0 (Rebuilding)** | Flutter + Improved UI/UX + Achievements + Social Feed + Leaderboard | *Currently developing* |
+
+---
+
+### 🍔 FoodHere Delivery App (Kotlin + Compose + SePay)
+A colorful & modern food delivery platform with:
+✔ Dish & restaurant browsing  
+✔ Wishlists + reviews  
+✔ Real-time cart + order tracking  
+✔ Online payment (VNPay / SePay / MoMo)  
+✔ Real-time **driver tracking with Mapbox**
+
+Designed for young, vibrant visual style 🎨
+
+---
+
+### 🤖 Autonomous Stair-Climbing Line-Follower Robot
+A differential-drive robot capable of:
+- Detecting & climbing stairs smoothly  
+- Holding balance mid-step  
+- Re-locating the line after climbing  
+- Switching modes automatically  
+
+**Tech:** ESP32 + FreeRTOS task control + PID on 5-array sensors + ultrasonic stair height logic.
+
+---
+
+### 🚗 6-Wheel Autonomous Navigation Bot (ESP32)
+- TCRT5000 line array tracking
+- Obstacle avoidance & recovery behavior
+- Multi-task control with sensor feedback loops
+
+---
+
+### 🍽️ Restaurant Recommendation System
+Hybrid recommender using:
+- Collaborative filtering  
+- Content-based similarity metrics  
+on **ChefMoz + GeoPlaces** datasets.
 
 ---
 
 ## 🎯 Currently Working On
+- Social systems + sharing feature for **WeRun 2.0**.
 
-* Improving autonomous stair-climbing robot performance (smoother transitions & recovery logic).
-* Finishing advanced social features for **WeRun 2.0**.
-* Expanding recommendation models and integrating ML into mobile apps.
 
 ---
 
-## 📫 Connect With Me
+## 📊 Stats
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=tokyonight)
 
-* **GitHub:** [https://github.com/MinhDeepZaiZLer](https://github.com/MinhDeepZaiZLer)
-* **Email** nguyengiaminh101105@gmail.com
-* **LinkedIn** [LinkedIn](https://www.linkedin.com/in/nguyen-gia-minh-minh-245512386/)
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MinhDeepZaiZLer&show_icons=true&theme=tokyonight)
+
 ---
 
-> “I build systems where code meets the real world — where algorithms drive motors, apps connect people, and ideas become reality.”
+## 🌐 Connect With Me
+- **GitHub:** https://github.com/MinhDeepZaiZLer  
+- **Email:** nguyengiaminh101105@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/nguyen-gia-minh-minh-245512386/  
 
-Thanks for visiting — feel free to fork, collaborate or message me! 🚀
+---
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=radical)
-
+Thanks for stopping by! 🚀
