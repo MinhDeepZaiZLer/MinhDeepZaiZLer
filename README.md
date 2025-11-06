@@ -72,6 +72,8 @@ I’m a developer from Da Nang, Vietnam, passionate about building systems that 
 * Expanding recommendation models and integrating ML into mobile apps.
 
 ---
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
