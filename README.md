@@ -76,7 +76,7 @@ I’m a developer from Da Nang, Vietnam, passionate about building systems that 
 ## 📫 Connect With Me
 
 * **GitHub:** [https://github.com/MinhDeepZaiZLer](https://github.com/MinhDeepZaiZLer)
-
+* **Email** [nguyengiaminh10112005@gmila.com]
 
 ---
 
