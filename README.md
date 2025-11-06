@@ -84,4 +84,6 @@ I’m a developer from Da Nang, Vietnam, passionate about building systems that 
 
 Thanks for visiting — feel free to fork, collaborate or message me! 🚀
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=radical)
 
