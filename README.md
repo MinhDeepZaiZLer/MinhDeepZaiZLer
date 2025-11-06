@@ -76,8 +76,8 @@ I’m a developer from Da Nang, Vietnam, passionate about building systems that 
 ## 📫 Connect With Me
 
 * **GitHub:** [https://github.com/MinhDeepZaiZLer](https://github.com/MinhDeepZaiZLer)
-* **Email** nguyengiaminh10112005@gmail.com
-
+* **Email** nguyengiaminh101105@gmail.com
+* **LinkedIn** [LinkedIn](https://www.linkedin.com/in/nguyen-gia-minh-minh-245512386/)
 ---
 
 > “I build systems where code meets the real world — where algorithms drive motors, apps connect people, and ideas become reality.”
