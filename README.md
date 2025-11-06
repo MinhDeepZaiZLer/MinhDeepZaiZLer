@@ -25,7 +25,7 @@ I’m a developer from Da Nang, Vietnam, passionate about building systems that 
   A running-tracker fitness application.
 
   * **WeRun** → Kotlin + Jetpack Compose + Firebase
-  * **WeRun 2.0** → Upgraded & rebuilt with **Flutter** with improved UI, achievements, goals tracking, sharing & friend leaderboard.
+  * **WeRun 2.0 (Doing)** → Upgraded & rebuilt with **Flutter** with improved UI, achievements, goals tracking, sharing & friend leaderboard.
 
 * **FoodHere Delivery App (Kotlin + Jetpack Compose + SePay + Firebase)**
   A colorful and modern food delivery app with features such as:
