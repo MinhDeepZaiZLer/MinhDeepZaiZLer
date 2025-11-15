@@ -29,7 +29,7 @@ I build systems where **software meets the physical world** — from mobile apps
 | **Mobile Apps**     | Kotlin, Jetpack Compose, Mapbox, Flutter, Dart                              |
 | **Cloud & APIs**    | Firebase Auth / Firestore / Storage, REST APIs                              |
 | **Programming**     | C, C++, Python, Kotlin, Dart                                                 |
-| **Core Concepts**   | PID tuning, fuzzy logic, state machines, clean architecture, UI state mgmt   |
+| **Core Concepts**   | PID tuning, fuzzy logic, state machines, UI state mgmt   |
 
 ---
 
