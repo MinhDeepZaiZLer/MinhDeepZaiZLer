@@ -107,13 +107,13 @@ on **ChefMoz + GeoPlaces** datasets.
 - Social systems + sharing feature for **WeRun 2.0**.
 
 
----
 
-## 📊 Stats
-### Most Used Languages
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=MinhDeepZaiZLer&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### 📚 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MinhDeepZaiZLer&layout=compact&langs_count=6&card_width=400&theme=onedark)
 ---
 
 ## 🌐 Connect With Me
