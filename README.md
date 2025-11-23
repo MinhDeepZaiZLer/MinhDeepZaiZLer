@@ -113,7 +113,7 @@ on **ChefMoz + GeoPlaces** datasets.
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=tokyonight)
 
-![Stats] (https://github-readme-stats.vercel.app/api/top-langs?username=minhdeepzaizler&layout=compact&langs_count=6&card_width=400&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=MinhDeepZaiZLer&layout=compact&langs_count=6&card_width=400&theme=onedark)
 ---
 
 ## 🌐 Connect With Me
