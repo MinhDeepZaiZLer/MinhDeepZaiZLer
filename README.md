@@ -103,8 +103,6 @@ on **ChefMoz + GeoPlaces** datasets.
 
 ---
 
-## 🎯 Currently Working On
-- Social systems + sharing feature for **WeRun 2.0**.
 
 
 
