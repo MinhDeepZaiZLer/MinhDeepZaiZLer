@@ -11,13 +11,12 @@
 
 ## 🚀 About Me
 
-I am an Information Technology student and Software Engineer Intern who loves building systems where **software meets the physical world**. My expertise spans across cross-platform/native mobile development, robotics control, and secure IoT cloud architectures. I enjoy solving real-world problems with **control logic, clean architecture, and computer vision.**
+I am an Information Technology student and Software Engineer Intern who loves building systems where **software meets the physical world**. My expertise spans across cross-platform/native mobile development, robotics control, and secure IoT architectures. I enjoy solving real-world problems with **control logic, clean architecture, and low-level optimization.**
 
 ### What I love working with:
 - **Robotics & Embedded Systems:** ESP32, TivaC Launchpad, FreeRTOS, PID control, multi-sensor fusion.
 - **IoT & Cloud Connectivity:** MQTT, AT Commands interface, ThingsBoard Cloud integration.
 - **Mobile Development:** Flutter cross-platform UI, Native Android (Kotlin + Jetpack Compose).
-- **AI & Computer Vision:** Facial Emotion Recognition (FER), YOLO, and Transformer architectures.
 
 ---
 ## 🧰 Languages and Tools
@@ -25,7 +24,6 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <br>
@@ -45,8 +43,7 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 | ------------------- | ---------------------------------------------------------------------------- |
 | **Embedded & IoT** | ESP32, TivaC Launchpad, Code Composer Studio, FreeRTOS, MQTT, AT Commands, FOTA |
 | **Mobile Apps** | Kotlin, Jetpack Compose, Mapbox, Flutter, Dart, BLoC / Provider |
-| **AI & Vision** | YOLO, Transformers, Facial Emotion Recognition (FER), Word2Vec, PCA |
-| **Programming** | C, C++, Python, Kotlin, Dart |
+| **Programming** | C, C++, Kotlin, Dart |
 | **Core Concepts** | PID tuning, Finite State Machines (FSM), ETL Pipelines, Network Security (Snort IDS) |
 
 ---
@@ -75,10 +72,6 @@ A colorful & modern food delivery platform featuring native Android UI component
 - Integrated VNPay / SePay / MoMo gateways for automated payment processing.
 - Real-time driver tracking and interactive routing utilizing the **Mapbox SDK**.
 - **Tech:** Kotlin, Jetpack Compose, REST APIs, WebSockets.
-
-### 🧠 Facial Emotion Recognition using Deep Learning
-A scientific research (NCKH) project aimed at analyzing human emotions in real-time.
-- Utilizes YOLO for precise face detection and Transformer architectures for sequence-based emotion classification.
 
 ---
 
