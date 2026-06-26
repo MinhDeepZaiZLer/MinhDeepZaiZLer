@@ -75,6 +75,20 @@ A colorful & modern food delivery platform featuring native Android UI component
 
 ---
 
+## 🏆 Certifications & Competitive Programming
+
+### 📜 Certificates
+- **HackerRank:** [View Certificate](https://www.hackerrank.com/certificates/iframe/287b85afdf9b)
+
+### 💻 LeetCode
+- **Profile:** [minhdeepzaizler](https://leetcode.com/u/minhdeepzaizler/)
+<br>
+<a href="https://leetcode.com/u/minhdeepzaizler/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+---
+
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MinhDeepZaiZLer&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
