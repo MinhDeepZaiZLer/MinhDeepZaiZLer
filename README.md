@@ -50,7 +50,7 @@ I am an Information Technology student and Software Engineer Intern who loves bu
 
 ## ⭐ Highlight Projects
 
-### 📝 Smart Study Desk (IoT & Productivity)
+### 📝 [Tiva C firmware development for IoT embedded edge devices](https://github.com/MinhDeepZaiZLer/Tiva-C-firmware-development-for-IoT-embedded-edge-devices)
 An embedded system built on TivaC Launchpad that serves as an intelligent workstation assistant.
 - **Features:** Real-time environment monitoring (Temp/Humid/Light), Embedded Pomodoro Timer FSM, and a custom **Focus Score** algorithm.
 - **Connectivity:** Streams multi-sensor telemetry data over MQTT via WiFi AT Commands interface directly to **ThingsBoard Dashboard**. Supports Remote Firmware Updates (FOTA).
@@ -93,7 +93,7 @@ A colorful & modern food delivery platform featuring native Android UI component
 [![GitHub Streak](https://streak-stats.demolab.com?user=MinhDeepZaiZLer&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 📚 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhDeepZaiZLer&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhDeepZaiZLer&theme=tokyonight)
 
 ---
 
@@ -103,5 +103,3 @@ A colorful & modern food delivery platform featuring native Android UI component
 - **LinkedIn:** [Nguyen Gia Minh](https://www.linkedin.com/in/nguyen-gia-minh-minh-245512386/)
 
 ---
-
-Thanks for stopping by! 🚀
